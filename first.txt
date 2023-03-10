@@ -1,1 +1,1 @@
-branchName : création d'une nouvelle branche 
+git checkout hhhh -b branchName : hhhcréation d'une nouvelle branche 
