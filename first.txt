@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 git checkout -b branchName : création d'une nouvelle branche 
 hello
+=======
+git checkout hhhh -b branchName : hhhcréation d'une nouvelle branche
+>>>>>>> d26cb007bd174b24ca189ab460c502599970c8e3
